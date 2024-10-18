@@ -4,3 +4,6 @@ numpy
 pyarrow
 ipykernel
 jupyter
+openpyxl
+matplotlib
+seaborn
